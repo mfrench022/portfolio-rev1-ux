@@ -306,7 +306,7 @@ h3 {
 	}
 
 	.case-studies-btn {
-		margin-block-end: calc(3 * var(--padding));
+		margin-block-end: calc(12 * var(--padding));
 	}
 
 	.panel .cta-container {
